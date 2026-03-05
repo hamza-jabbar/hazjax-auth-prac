@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=WPiqNDapQrk  -->   
+
+
+- Shadcn: UI
+- Postmark: Emails
+- Docker: Database
+- Drizzle: Intracting with database
