@@ -1,7 +1,9 @@
-https://www.youtube.com/watch?v=WPiqNDapQrk  -->   11:54
+https://www.youtube.com/watch?v=WPiqNDapQrk  -->   35:05
 
 
 - Shadcn: UI
 - Postmark: Emails
 - Docker: Database
 - Drizzle: Intracting with database
+
+docker compose up -d
