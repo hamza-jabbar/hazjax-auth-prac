@@ -8,6 +8,8 @@ export const auth = betterAuth({
     enabled: true,
   },
 
+  // Social based sign ins TODO
+
   session: {
     cookieCache: {
       enabled: true,

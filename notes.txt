@@ -1,9 +1,10 @@
-https://www.youtube.com/watch?v=WPiqNDapQrk  -->   35:05
-
-
+https://www.youtube.com/watch?v=WPiqNDapQrk  -->   51:54
 - Shadcn: UI
 - Postmark: Emails
 - Docker: Database
 - Drizzle: Intracting with database
+- Arcjet: Security
+
+- route.ts file stored in app/api/auth/[...all]
 
 docker compose up -d
